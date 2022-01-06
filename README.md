@@ -1,5 +1,5 @@
 # svelte-projects
-- This repo contains a list of simple svelte projects made by me to learn svelte.
+- This repo contains a list of simple svelte projects made by me to learn svelte. (More projects will be added soon)
 
 ## Svelte projects
 | Project | Description |
