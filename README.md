@@ -8,8 +8,7 @@
 | [Temperature converter](https://github.com/RedEdge967/svelte-projects/blob/master/temp-converter.svelte) | A temperature converting app written in svelte |
 | [Counter]() | A counting app written in svelte |
 
-## Running
-
+> You can download a `zip` file of these projects in the [releases](https://github.com/RedEdge967/svelte-projects/releases)
 
 ## Can I Contribute?
 - Sure, open an issue, point out errors, and what not. Wanna fix something yourselves, you're welcome to open a pull request and I appreciate it.
